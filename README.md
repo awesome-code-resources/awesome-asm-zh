@@ -1,6 +1,7 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-asm-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
 本项目的原始仓库地址为[这里](https://github.com/Maijin/awesome-asm)。
-# Awesome Assembler [[wiki]](https://en.wikipedia.org/wiki/Assembly_language#Assembler)![](http://i.imgur.com/tr6tTZE.png)
+# Awesome Assembler [[wiki]](https://en.wikipedia.org/wiki/Assembly_language#Assembler)
+![](http://i.imgur.com/tr6tTZE.png)
 
 精选的令人敬畏的汇编清单 :)
 
